@@ -1,0 +1,86 @@
+#ChatBox_Online
+ ===============================================================================
+   ______               _ _      
+  / _____)             | (_)_    
+ | /       ____ ____ _ | |_| |_  
+ | |      / ___) _  ) || | |  _) 
+ | \_____| |  ( (/ ( (_| | | |__ 
+  \______)_|   \____)____|_|\___)
+
+ ===============================================================================
+ My Youtube Channel  -- https://www.youtube.com/c/f1r3animator
+ My Telegram Channel -- https://t.me/F1r3_Animator
+                     -- https://t.me/FireDisc
+Mt Telegram Account  -- https://t.me/StudentSamurai
+ My Discord Channel  -- https://discord.gg/K4RGed5a5d
+
+ Video where I got the base -- https://www.youtube.com/watch?v=vzfYfMlN3-s
+ ===============================================================================
+:Italiano
+Come funziona ?
+
+Semplice crei un account dropbox per i tuoi amici e per il tuo team,
+installi dropbox nel pc così tutti i membri avranno una cartella condivisa.
+
+Inserisci ChatBox_Online e il gioco è fatto, puoi modificare il codice per esempio dove dice 
+"::Mini Database" Potete inserire L'uuid del pc "admin" e quindi avere accesso senza creare 
+un profilo effettivo, oppure avendo accesso a certi comendi ad esempio /console.
+
+Ci sono vari comandi di esempio dove potete aggiungerne altri (per favore tenete /youtube)
+
+Ritornando a prima dopo aver inserito ChatBox_online dovrete creare un account per ogni persona o
+dare i permessi "uuid" oppure dovrete creare un file .bat così
+(
+set logname=Username
+set logpass=Password
+)
+Se serve aiuto contattatemi, (guardate sopra nei drediti)
+ ===============================================================================
+:English_Us
+ How does it work?
+
+Simple you create a dropbox account for your friends and your team,
+install dropbox in the pc so all members will have a shared folder.
+
+Insert ChatBox_Online and that's it, you can modify the code for example where it says 
+"::Mini Database" You can insert the uuid of the pc "admin" and then have access without creating 
+an actual profile, or having access to certain commands for example /console.
+
+There are several example commands where you can add more (please keep /youtube)
+
+Going back to before, after entering ChatBox_online you will have to create an account for each person or
+give "uuid" permissions or create a .bat file like this
+(
+set logname=Username
+set logpass=Password
+)
+If you need help contact me, (look above in the credits)
+ ===============================================================================
+:English_Gb
+ How does it work?
+
+Simple you create a dropbox account for your friends and your team,
+install dropbox on your pc so all members will have a shared folder.
+
+Enter ChatBox_Online and that's it, you can edit the code for example where it says 
+"::Mini Database" You can enter the uuid of the pc "admin" and then have access without creating a 
+an actual profile, or having access to certain commands e.g. /console.
+
+There are several example commands where you can add more (please keep /youtube)
+
+Back to before, after entering ChatBox_online you need to create an account for each person or
+give "uuid" permissions or create a .bat file like this
+(
+set logname=Username
+set logpass=Password
+)
+If you need help contact me, (see above in the credits)
+ ===============================================================================
+  My Youtube Channel  -- https://www.youtube.com/c/f1r3animator
+ My Telegram Channel -- https://t.me/F1r3_Animator
+                     -- https://t.me/FireDisc
+Mt Telegram Account  -- https://t.me/StudentSamurai
+ My Discord Channel  -- https://discord.gg/K4RGed5a5d
+
+ Video where I got the base -- https://www.youtube.com/watch?v=vzfYfMlN3-s
+ ===============================================================================
